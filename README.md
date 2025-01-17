@@ -1,4 +1,4 @@
-# CSI5388/ELG7186 Example notebooks
+# CSI5388/ELG7186/ELG5271 Example notebooks
 
 This repository contains examples of how to use ML methods in practice.
 
